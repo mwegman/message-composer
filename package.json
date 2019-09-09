@@ -24,10 +24,10 @@
     "react-html-parser": "^2.0.2",
     "react-icons-kit": "^1.2.1",
     "react-portal": "^4.2.0",
-    "slate": "0.45",
+    "slate": "https://github.com/Akashdeep-Sarin/slate/raw/3c9293147ed27ed4120c6ebe2f06df9cfafeba74/packages/slate/slate.tar",
     "slate-html-serializer": "^0.7.34",
     "slate-plain-serializer": "^0.6.34",
-    "slate-react": "^0.21.24",
+    "slate-react": "https://github.com/Akashdeep-Sarin/slate/raw/3c9293147ed27ed4120c6ebe2f06df9cfafeba74/packages/slate-react/slate-react.tar",
     "tiny-emitter": "^2.1.0"
   },
   "devDependencies": {
